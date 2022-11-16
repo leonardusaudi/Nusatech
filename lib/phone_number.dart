@@ -178,7 +178,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 Text(
                   "I have read and agree to Digicoins ",
                   style: TextStyle(fontSize: 5, color: Colors.white),
-                )
+                ),
               ],
             ),
           ),
